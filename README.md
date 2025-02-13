@@ -18,23 +18,23 @@ git clone https://github.com/AnshAggr1303/Brutus-AI-Chatbot-.git
 cd Brutus-AI-Chatbot-
 ```
 ### **2️⃣ Set up the Backend**
-python3 -m venv venv
-source venv/bin/activate   # (On Windows use: venv\Scripts\activate)
-pip install -r requirements.txt
-python app.py  # Starts the Flask backend
+ - python3 -m venv venv
+ - source venv/bin/activate   # (On Windows use: venv\Scripts\activate)
+ - pip install -r requirements.txt
+ - python app.py  # Starts the Flask backend
 
 ### **3️⃣ Set up the Frontend (Streamlit)**
-pip install -r requirements.txt
-streamlit run streamlit_app.py
+ - pip install -r requirements.txt
+ - streamlit run streamlit_app.py
 
 ---
 
 🔧 Tech Stack
 
-Frontend: Streamlit
-Backend: Flask
-AI Model: LLaMA 2 (via LangChain)
-API Requests: Requests (Python)
+ - Frontend: Streamlit
+ - Backend: Flask
+ - AI Model: LLaMA 2 (via LangChain)
+ - API Requests: Requests (Python)
 
 ---
 
