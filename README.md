@@ -46,10 +46,10 @@ Feel free to fork this repository, make changes, and submit a Pull Request! 🚀
 
 🎯 Todo
 
-✅ Improve UI/UX
-✅ Optimize API response handling
-⏳ Add persistent chat history
-⏳ Deploy on Streamlit Sharing & Render
+ - ✅ Improve UI/UX
+ - ✅ Optimize API response handling
+ - ⏳ Add persistent chat history
+ - ⏳ Deploy on Streamlit Sharing & Render
 
 ---
 
